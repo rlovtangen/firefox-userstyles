@@ -1,0 +1,10 @@
+= Firefox userstyles
+
+My user userstyles for Firefox. Used mainly to hide unimportant stuff I don't care about.
+
+== Location
+On Mac OS X `userContent.css` should be placed under `~/Library/Application Support/Firefox/Profiles/<profileid>.default/chrome/`
+
+== Reference
+http://kb.mozillazine.org/UserContent.css
+
