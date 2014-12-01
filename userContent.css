@@ -1,0 +1,5 @@
+
+@-moz-document url-prefix(https://kodemaker-no.socialcast.com/) {
+    .community_status,
+    .invite_wrapper {display:none;}
+}
